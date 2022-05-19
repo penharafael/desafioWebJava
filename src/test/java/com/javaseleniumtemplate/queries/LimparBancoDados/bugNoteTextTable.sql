@@ -1,0 +1,1 @@
+delete from mantis_bugnote_text_table

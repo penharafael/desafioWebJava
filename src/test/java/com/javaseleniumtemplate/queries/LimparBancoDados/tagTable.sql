@@ -1,0 +1,1 @@
+delete from mantis_tag_table

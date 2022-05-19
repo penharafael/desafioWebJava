@@ -1,0 +1,1 @@
+delete from mantis_custom_field_table

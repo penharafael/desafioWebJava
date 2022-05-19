@@ -1,0 +1,1 @@
+delete from mantis_bug_file_table

@@ -1,0 +1,1 @@
+delete from mantis_email_table
