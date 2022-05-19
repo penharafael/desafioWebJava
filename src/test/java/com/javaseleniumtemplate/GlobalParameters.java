@@ -21,7 +21,7 @@ public class GlobalParameters {
     public static String DB_USER;
     public static String DB_PASSWORD;
 
-    private Properties properties;
+    private Properties properties = new Properties();;
 
     public GlobalParameters(){
         properties = new Properties();

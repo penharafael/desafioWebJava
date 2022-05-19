@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="JavaSeleniumTemplateTests" parallel="false">
+<suite name="desafiobase2" parallel="false">
     <test name="TestNgMavenTest">
         <classes>
             <class name="com.javaseleniumtemplate.tests.LoginTests"/>
-            <!-- <class name="com.javaseleniumtemplate.tests.ReportIssueTests"/>-->
         </classes>
     </test>
 </suite>
