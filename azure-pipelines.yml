@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: Rafael-PC
+  vmImage: Rafael-PC01
 
 steps:
 - task: Maven@3
