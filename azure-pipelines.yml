@@ -6,7 +6,7 @@
 trigger:
 - master
 
-pool: Default
+pool:
   vmImage: ubuntu-latest
 
 steps:
