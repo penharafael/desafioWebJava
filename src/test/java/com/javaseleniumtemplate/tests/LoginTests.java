@@ -77,7 +77,8 @@ public class LoginTests extends TestBase {
         loginPage.preencherSenha(senha);
         loginPage.clicarEntrar();
 
-        Assert.assertEquals("rt", loginPage.returnMessageDeErro());
+        Assert.assertEquals("Sua conta pode estar desativada ou bloqueada ou o " +
+                "nome de usuário e a senha que você digitou não estão corretos.", loginPage.returnMessageDeErro());
     }
 
 }
