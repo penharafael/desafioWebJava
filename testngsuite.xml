@@ -10,6 +10,7 @@
             <class name="com.javaseleniumtemplate.tests.MarcadorTests"/>
             <class name="com.javaseleniumtemplate.tests.ProjetoDataDrivenCSVTest"/>
             <class name="com.javaseleniumtemplate.tests.ProjetoTest"/>
+            <class name="com.javaseleniumtemplate.tests.UsuarioTests"/>
             <class name="com.javaseleniumtemplate.tests.VerPlanejamentoTest"/>
             <class name="com.javaseleniumtemplate.tests.VerResumoTest"/>
 
