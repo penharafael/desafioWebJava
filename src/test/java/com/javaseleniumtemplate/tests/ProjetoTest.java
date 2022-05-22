@@ -81,7 +81,11 @@ public class ProjetoTest extends TestBase {
         //Parameteres
         String usuario = "administrator";
         String senha = "Opr@15928";
-        String projetos = "";
+        String projetos = "projeto001 desenvolvimento público descricao001\n" +
+                "projeto002 desenvolvimento público descricao002\n" +
+                "projeto003 desenvolvimento público descricao003\n" +
+                "projeto004 desenvolvimento público descricao004\n" +
+                "projeto005 desenvolvimento público descricao005";
 
         //Test
         loginFlows.efetuarLogin(usuario,senha);

@@ -235,7 +235,7 @@ public class CadastroDeIncidencia extends TestBase {
 
     }
 
-
+/*
     @Test
     public void ApagarTarefa(){
 
@@ -409,5 +409,5 @@ public class CadastroDeIncidencia extends TestBase {
 
         Assert.assertNotNull(detalhesTarefaPage.pararDeMonitorarVisible());
 
-    }
+    }*/
 }
