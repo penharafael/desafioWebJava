@@ -194,6 +194,7 @@
                         <suiteXmlFiles>
                             <suiteXmlFile>testngsuite.xml</suiteXmlFile>
                         </suiteXmlFiles>
+                        <testFailureIgnore>true</testFailureIgnore>
                     </configuration>
                 </plugin>
             </plugins>
