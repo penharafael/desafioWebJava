@@ -22,13 +22,13 @@ public class TestBase {
         DriverFactory.createInstance();
         DriverFactory.INSTANCE.manage().window().maximize();
         DriverFactory.INSTANCE.navigate().to(GlobalParameters.URL_DEFAULT);
-        LimparBancoDeDadosStep.limparDados();
+       /* LimparBancoDeDadosStep.limparDados();
         UsuariosDBSteps.criarUsuarioDB();
         ProjetoDBSteps.criarProjetoDB();
         CategoriaDBSteps.criarCategoriasDB();
         CampoPersonalizadoDBSteps.criarCamposPersonalizadosDB();
         MarcadorDBSteps.criarMarcadorDB();
-        //TarefasDBSteps.criarTarefasDB();
+        //TarefasDBSteps.criarTarefasDB();*/
     }
 
     @AfterMethod
