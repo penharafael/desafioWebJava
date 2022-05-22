@@ -52,7 +52,7 @@ Arquivo responsável pela execução dos testes
 testngsuite.xml
 ```
 
-**2- Os casos de testes podem ser executados em 3 navegadores (Firefox, Google Chrome, Edge)**
+**2- Os casos de testes podem ser executados em 3 navegadores (Firefox, Google Chrome, Edge)utilizando o selenium grid**
 
 ![grid](https://user-images.githubusercontent.com/18040044/169714405-5be91a62-3d4f-45ff-8418-4bf02e40b166.png)
 
