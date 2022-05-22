@@ -2,15 +2,9 @@
 <suite name="javaseleniumtemplate" parallel="false">
     <test name="TestNgMavenTest">
         <classes>
-            <class name="com.javaseleniumtemplate.tests.CadastroDeIncidencia"/>
-            <class name="com.javaseleniumtemplate.tests.CampoPersonalizadoCSVTest"/>
-            <class name="com.javaseleniumtemplate.tests.CampoPersonalizadoTest"/>
+
             <class name="com.javaseleniumtemplate.tests.LoginTests"/>
-            <class name="com.javaseleniumtemplate.tests.MarcadorTests"/>
-            <class name="com.javaseleniumtemplate.tests.ProjetoDataDrivenCSVTest"/>
-            <class name="com.javaseleniumtemplate.tests.ProjetoTest"/>
-            <class name="com.javaseleniumtemplate.tests.VerPlanejamentoTest"/>
-            <class name="com.javaseleniumtemplate.tests.VerResumoTest"/>
+
         </classes>
     </test>
 </suite>
