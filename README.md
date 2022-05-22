@@ -1,3 +1,4 @@
+
 [![Build Status](https://dev.azure.com/saymonoliveira/Templates%20Pipelines/_apis/build/status/Templates%20Pipelines-Maven-CI?branchName=headless)](https://dev.azure.com/saymonoliveira/Templates%20Pipelines/_build/latest?definitionId=2&branchName=headless)
 
 
@@ -39,6 +40,9 @@ Após toda execução: sucesso ou falha, é gerado um relatório com cada passo 
 
 Obs: a imagens possuem path dinâmico, basta zipar a pasta do relatório e enviar para o destinatário ou subir em algum bucket AWS para acessar que todos os dados estarão consistentes. 
 
+![Reports](https://user-images.githubusercontent.com/18040044/169714414-2d2e67d0-b942-4875-b31b-a31e583ec324.png)
+
+
 
 **1- Foi executado 50 casos de teste**
 
@@ -50,6 +54,9 @@ testngsuite.xml
 
 **2- Os casos de testes podem ser executados em 3 navegadores (Firefox, Google Chrome, Edge)**
 
+![grid](https://user-images.githubusercontent.com/18040044/169714405-5be91a62-3d4f-45ff-8418-4bf02e40b166.png)
+
+
 **3- Realizado o Data-Driven nas Classes 'CampoPersonalizadoCSVTest' e 'ProjetoDataDrivenCSVTest'**
 
 **4- A classe de teste LoginTests utiliza Javascript para execução do teste**
@@ -59,4 +66,5 @@ testngsuite.xml
 ```
 azure-pipelines.xml
 ```
+![Azure](https://user-images.githubusercontent.com/18040044/169714352-87f5b1db-41e3-47b0-915b-313660e6c2c3.png)![Azure2](https://user-images.githubusercontent.com/18040044/169714383-5375b4d9-7047-4132-9d2e-2289d0d0cb6e.png)
 
